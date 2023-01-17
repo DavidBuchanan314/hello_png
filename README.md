@@ -1,6 +1,6 @@
 # Hello PNG
 
-This repo contains code that accompanies my blog post of the same title: TODO
+This repo contains code that accompanies my blog post of the same title: https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 
 `hello_png_0.py` is the first example given in the article, resulting in `./samples/out_0.png`, which has the skeleton of a PNG file but contains no valid data.
 
